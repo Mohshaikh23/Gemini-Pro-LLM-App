@@ -6,7 +6,7 @@ import textwrap
 from PIL import Image
 
 
-GOOGLE_API_KEY = "AIzaSyAO_h3uP2pf8ofupMCscDBXnmxWJuE5EbM"
+GOOGLE_API_KEY = "Enter Your Google API Key"
 
 from dotenv import load_dotenv
 load_dotenv() # loading environment variables
